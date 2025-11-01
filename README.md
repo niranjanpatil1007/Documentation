@@ -1,2 +1,111 @@
-# Documentation
-📚 A professional collection of my technical writing samples — including API documentation, user guides, process documents, and developer-focused content. Showcasing my work as a Software Technical Writer with 4+ years of experience in creating clear, structured, and user-friendly documentation.
+# 🧭 Software Technical Writer Portfolio  
+> *“Turning complex systems into clear, usable documentation.”*  
+
+![Banner](https://i.imgur.com/YOUR_IMAGE.png)  
+*(Example: Replace with your own header image — could include your name, title, and a clean tech theme.)*
+
+---
+
+## 👋 About Me  
+
+Hello! I'm **Niranjan Patil**, a **Software Technical Writer** with 4+ years of experience crafting precise, user-focused documentation for software products, APIs, SDKs, and enterprise applications.  
+
+I bridge the gap between complex engineering concepts and user understanding through clear, structured, and accessible documentation.  
+
+📍 **Location:** India  
+💼 **Experience:** 4+ Years  
+📚 **Domain Expertise:** Banking, FinTech, API Docs, Cybersecurity, SaaS  
+💬 **Languages:** English, Markdown, HTML, JSON, YAML  
+
+---
+
+## 🛠️ Technical Skills  
+
+| Category | Tools / Technologies |
+|-----------|----------------------|
+| **Documentation Tools** | Confluence, MadCap Flare, FrameMaker, Docusaurus, Sphinx |
+| **Version Control** | Git, GitLab, GitHub |
+| **Markup & Scripting** | Markdown, HTML5, XML, YAML |
+| **API Documentation** | Swagger / OpenAPI, Postman, Stoplight |
+| **Graphics & Visualization** | Snagit, Draw.io, Lucidchart |
+| **Project Management** | Jira, Trello, ClickUp |
+
+---
+
+## 📘 Key Projects  
+
+### 🔹 1. **Banking API Documentation Suite**
+![API Docs Screenshot](https://i.imgur.com/YOUR_IMAGE.png)
+- Created and maintained comprehensive API documentation for **Axis, ICICI, HDFC, IDFC, Kotak, IndusInd, and Yes Banks**.  
+- Ensured consistency using OpenAPI standards and Markdown templates.  
+- Collaborated with product and engineering teams to update release notes and SDK references.  
+
+🧩 *Tech Stack:* Swagger, Markdown, Confluence  
+
+---
+
+### 🔹 2. **Cybersecurity Knowledge Base**
+![Cybersecurity Screenshot](https://i.imgur.com/YOUR_IMAGE.png)
+- Developed user manuals and threat-response guides for cybersecurity tools.  
+- Implemented visual diagrams and JSON-based examples to simplify complex workflows.  
+- Reduced onboarding time by **35%** through structured knowledge-sharing content.  
+
+🧩 *Tech Stack:* Docusaurus, GitLab Wiki  
+
+---
+
+### 🔹 3. **Developer Portal Revamp**
+![Developer Portal](https://i.imgur.com/YOUR_IMAGE.png)
+- Re-designed legacy developer portal using **Docusaurus 2**.  
+- Added interactive “Try It” API explorer and improved navigation UX.  
+- Increased documentation engagement by **40%** (based on analytics).  
+
+🧩 *Tech Stack:* React, Docusaurus, Markdown  
+
+---
+
+## 📈 Visual Overview  
+
+![Pie Chart of Work Distribution](https://quickchart.io/chart?c={type:'pie',data:{labels:['API Docs','User Guides','Knowledge Base','Process Docs'],datasets:[{data:[45,25,20,10]}]}})
+> *My documentation focus by category.*
+
+---
+
+## 💡 Writing Philosophy  
+
+> 🧠 **Clarity:** Every user should understand *what*, *why*, and *how* without confusion.  
+> ⚙️ **Structure:** Information architecture is as important as words.  
+> 🤝 **Collaboration:** Work closely with developers, testers, and designers.  
+
+---
+
+## 📂 Featured Samples  
+
+| Type | Description | Link |
+|------|--------------|------|
+| **API Reference Doc** | RESTful API for Payment Gateway | [View Sample](#) |
+| **User Guide** | Cybersecurity Setup & Troubleshooting | [View Sample](#) |
+| **Knowledge Base** | Internal IT Documentation | [View Sample](#) |
+
+---
+
+## 🧰 My Tool Stack  
+
+![Tools Banner](https://skillicons.dev/icons?i=git,github,gitlab,markdown,html,linux,react,swagger,vscode,postman)
+
+---
+
+## 📫 Connect With Me  
+
+[![GitLab](https://img.shields.io/badge/GitLab-Profile-orange?style=for-the-badge&logo=gitlab)](https://gitlab.com/YOUR_USERNAME)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Niranjan_Patil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/niranjan-patil-23386b175?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bbf7hDTyRSUOkaqnK2n6QRg%3D%3D)  
+[![Portfolio Website](https://img.shields.io/badge/Portfolio-Website-gray?style=for-the-badge&logo=google-chrome)](https://yourwebsite.com)
+
+---
+
+### 🖋️ *“Good documentation is the bridge between product complexity and user success.”*
+
+---
+
+© 2025 Niranjan Patil — *Software Technical Writer*
+
