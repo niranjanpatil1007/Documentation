@@ -69,7 +69,7 @@ I bridge the gap between complex engineering concepts and user understanding thr
 ## 📈 Visual Overview  
 
 ## 📊 Work Distribution Overview
-![Work Distribution Overview](file:///Users/niranjanpatil/Downloads/Image%20Nov%201,%202025,%2001_55_12%20PM.png)
+![Work Distribution Overview](Image Nov 1, 2025, 01_55_12 PM.png)
 > *This chart shows my documentation work focus across API Docs, User Guides, Knowledge Base, and Process Docs.*
 
 
