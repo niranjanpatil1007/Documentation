@@ -35,7 +35,8 @@ I bridge the gap between complex engineering concepts and user understanding thr
 ## 📘 Key Projects  
 
 ### 🔹 1. **Banking API Documentation Suite**
-![API Docs Screenshot](https://i.imgur.com/YOUR_IMAGE.png)
+![API Docs Screenshot](<img width="1536" height="1024" alt="Image Nov 1, 2025, 01_18_03 PM" src="https://github.com/user-attachments/assets/389007e7-4fcf-4cb9-8022-a2ee229e176e" />
+)
 - Created and maintained comprehensive API documentation for **Axis, ICICI, HDFC, IDFC, Kotak, IndusInd, and Yes Banks**.  
 - Ensured consistency using OpenAPI standards and Markdown templates.  
 - Collaborated with product and engineering teams to update release notes and SDK references.  
@@ -45,7 +46,8 @@ I bridge the gap between complex engineering concepts and user understanding thr
 ---
 
 ### 🔹 2. **Process Knowledge Base**
-![Cybersecurity Screenshot](https://i.imgur.com/YOUR_IMAGE.png)
+![Screenshot](<img width="1536" height="1024" alt="Image Nov 1, 2025, 01_18_03 PM" src="https://github.com/user-attachments/assets/b00e97c1-908d-4139-9218-932439de003f" />
+)
 - Developed user manuals and threat-response guides for Process flow tools.  
 - Implemented visual diagrams and JSON-based examples to simplify complex workflows.  
 - Reduced onboarding time by **35%** through structured knowledge-sharing content.  
