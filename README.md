@@ -90,7 +90,7 @@ I bridge the gap between complex engineering concepts and user understanding thr
 
 | Type | Description | Link |
 |------|--------------|------|
-| **API Reference Doc** | RESTful API for Payment Gateway | ![View Sample]() |
+| **API Reference Doc** | RESTful API for Payment Gateway | ![View Sample](https://github.com/niranjanpatil1007/Documentation/blob/main/Ach_Add_Account_API_Flow.md) |
 | **User Guide** | Cybersecurity Setup & Troubleshooting | [View Sample](#) |
 | **Knowledge Base** | Internal IT Documentation | [View Sample](#) |
 
