@@ -97,7 +97,7 @@ I bridge the gap between complex engineering concepts and user understanding thr
 
 ## 📫 Connect With Me  
 
-[![GitLab](https://img.shields.io/badge/GitLab-Profile-orange?style=for-the-badge&logo=gitlab)]([https://gitlab.com/YOUR_USERNAME](https://gitlab.com/softwaredocumentation/documentation))  
+[![GitLab](https://img.shields.io/badge/GitLab-Profile-orange?style=for-the-badge&logo=gitlab)](https://gitlab.com/softwaredocumentation/documentation))  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Niranjan_Patil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/niranjan-patil-23386b175?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bbf7hDTyRSUOkaqnK2n6QRg%3D%3D)  
 [![Portfolio Website](https://img.shields.io/badge/Portfolio-Website-gray?style=for-the-badge&logo=google-chrome)](https://yourwebsite.com)
 
