@@ -14,7 +14,7 @@ I bridge the gap between complex engineering concepts and user understanding thr
 
 📍 **Location:** India  
 💼 **Experience:** 4+ Years  
-📚 **Domain Expertise:** Banking, FinTech, API Docs, Cybersecurity, SaaS  
+📚 **Domain Expertise:** Banking, FinTech, API Docs, SaaS, Process Document.
 💬 **Languages:** English, Markdown, HTML, JSON, YAML  
 
 ---
@@ -23,9 +23,9 @@ I bridge the gap between complex engineering concepts and user understanding thr
 
 | Category | Tools / Technologies |
 |-----------|----------------------|
-| **Documentation Tools** | Confluence, MadCap Flare, FrameMaker, Docusaurus, Sphinx |
+| **Documentation Tools** | MS Office, MadCap Flare, FrameMaker, Postman |
 | **Version Control** | Git, GitLab, GitHub |
-| **Markup & Scripting** | Markdown, HTML5, XML, YAML |
+| **Markup & Scripting** | Markdown, HTML5, XML, YAML, ASCII doc |
 | **API Documentation** | Swagger / OpenAPI, Postman, Stoplight |
 | **Graphics & Visualization** | Snagit, Draw.io, Lucidchart |
 | **Project Management** | Jira, Trello, ClickUp |
@@ -44,9 +44,9 @@ I bridge the gap between complex engineering concepts and user understanding thr
 
 ---
 
-### 🔹 2. **Cybersecurity Knowledge Base**
+### 🔹 2. **Process Knowledge Base**
 ![Cybersecurity Screenshot](https://i.imgur.com/YOUR_IMAGE.png)
-- Developed user manuals and threat-response guides for cybersecurity tools.  
+- Developed user manuals and threat-response guides for Process flow tools.  
 - Implemented visual diagrams and JSON-based examples to simplify complex workflows.  
 - Reduced onboarding time by **35%** through structured knowledge-sharing content.  
 
@@ -75,7 +75,7 @@ I bridge the gap between complex engineering concepts and user understanding thr
 
 > 🧠 **Clarity:** Every user should understand *what*, *why*, and *how* without confusion.  
 > ⚙️ **Structure:** Information architecture is as important as words.  
-> 🤝 **Collaboration:** Work closely with developers, testers, and designers.  
+> 🤝 **Collaboration:** Work closely with developers, testers, and Product, designers.  
 
 ---
 
@@ -91,7 +91,7 @@ I bridge the gap between complex engineering concepts and user understanding thr
 
 ## 🧰 My Tool Stack  
 
-![Tools Banner](https://skillicons.dev/icons?i=git,github,gitlab,markdown,html,linux,react,swagger,vscode,postman)
+![Tools Banner](https://skillicons.dev/icons?i=git,github,gitlab,markdown,html,react,swagger,vscode,postman)
 
 ---
 
