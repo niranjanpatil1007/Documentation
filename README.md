@@ -68,7 +68,12 @@ I bridge the gap between complex engineering concepts and user understanding thr
 
 ## 📈 Visual Overview  
 
-![Pie Chart of Work Distribution](https://quickchart.io/chart?c={type:'pie',data:{labels:['API Docs','User Guides','Knowledge Base','Process Docs'],datasets:[{data:[45,25,20,10]}]}})
+## 📊 Work Distribution Overview
+![Work Distribution Overview](file:///Users/niranjanpatil/Downloads/Image%20Nov%201,%202025,%2001_55_12%20PM.png)
+> *This chart shows my documentation work focus across API Docs, User Guides, Knowledge Base, and Process Docs.*
+
+
+
 > *My documentation focus by category.*
 
 ---
