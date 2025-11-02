@@ -1,7 +1,7 @@
 # 🧭 Software Technical Writer Portfolio  
 > *“Turning complex systems into clear, usable documentation.”*  
 
-![Banner](https://github.com/niranjanpatil1007/Documentation/blob/main/Folder/Asset/NiranjanPatil_GitPortfolio_100x40mm.png)  
+![Banner](https://github.com/niranjanpatil1007/Documentation/blob/main/Folder/Asset/NiranjanPatil_GitPortfolio_80x30mm.png)  
 *(Example: Replace with your own header image — could include your name, title, and a clean tech theme.)*
 
 ---
