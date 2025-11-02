@@ -5,44 +5,23 @@
 (^) **Jan 2025**
 
 
-(^) **2**
-
 ## Document Control Information
 
-```
-Document Name
-IDFC Remitfirst User Guide Document
-```
-```
-Document No.
-IDFC Remitfirst User Guide Document V 1.
-```
-```
-Current version
-1.
-```
-```
-Website Name / Brand Name
-Remit First
-```
-```
-Product Type
-DigiRemit Inward to India
-```
-```
-Current version
-1.
-```
+| **Field** | **Details** |
+|------------|-------------|
+| **Document Name** | User Guide Document |
+| **Document No.** | User Guide Document V1.0 |
+| **Current Version** | 1.0 |
+| **Website / Brand Name** | Rt First |
+| **Product Type** | Inward to India |
+
 ## Version History
 
-```
-Version Date Written By Reviewed By
-```
-```
-1.0 24 / 01 /20 25 Niranjan Patil
-```
+| **Version** | **Date** | **Written By** | **Reviewed By** |
+|--------------|-----------|----------------|-----------------|
+| 1.0 | 24/01/2025 | Niranjan Patil | — |
 
-(^) **3**
+
 
 ## STATEMENT OF CONFIDENTIALITY
 
@@ -66,38 +45,35 @@ any means without the written permission of Comp. Pvt. Ltd is strictly prohibite
 
 ## TABLE OF CONTENTS
 
-   -
 - 1. Scope
 - 2. Pre-Login
-- 2.1 Calculator..............................................................................................................................
-- 2.2 Send Money..........................................................................................................................
+- 2.1 Calculator
+- 2.2 Send Money
 - 2.3 Help And Support
-- 2.3.1 How It Work..........................................................................................................................
+- 2.3.1 How It Work
 - 2.3.2 Contact Us
-- 2.3.3 Feedback...............................................................................................................................
-- 2.3.4 Set rate Alert.........................................................................................................................
-- 2.4 Quick links...........................................................................................................................
-- 2.5 Legal....................................................................................................................................
+- 2.3.3 Feedback
+- 2.3.4 Set rate Alert
+- 2.4 Quick links
+- 2.5 Legal
 - 3. Login
-- 4. Money Transfer..................................................................................................................
+- 4. Money Transfer
 - 5. Add Sender
 - 6. Add Receiver
-- 7. Track My Transaction.........................................................................................................
+- 7. Track My Transaction
 - 8. Set Rate Alert
 - 9. Refer a Friend
 - 10. Help
 - 10.1 FAQ
 - 10.2 Contact Us
 - 11. Hi User
-- 11.1 Profile..................................................................................................................................
+- 11.1 Profile
 - 11.2 Receiver Details
-- 11.3 Sender Details.....................................................................................................................
-- 11.4 Change Password................................................................................................................
+- 11.3 Sender Details
+- 11.4 Change Password
 - 11.5 Notification
 - 11.6 Logout
 
-
-(^) **5**
 
 ## 1. Scope
 
@@ -114,15 +90,13 @@ multiple countries into India.
 The platform can be used for C2C (Customer to Customer) remittances.
 
 
-(^) **6**
-
 ## 2. Pre-Login
 
 The Pre-Login section offers quick access to key features like Send Money, Help and Support, and
 Legal information. Users can explore How It Works, Contact Us, give Feedback, set alerts, and use
 Quick Links for easy navigation— all without logging in.
 
-## 2.1 Calculator..............................................................................................................................
+## 2.1 Calculator
 
 ```
 It shows the amount you send in SGD, the amount your recipient gets in INR, the exchange rate,
@@ -136,9 +110,7 @@ At the bottom of the website, a set of options is available for exploration. Scr
 explore these options.
 
 
-(^) **7**
-
-## 2.2 Send Money..........................................................................................................................
+## 2.2 Send Money
 
 Choose the country from which you want to send money. Options include Australia, Singapore,
 and Hong Kong.
@@ -149,7 +121,7 @@ Find answers to your questions, learn how things work, contact customer service 
 
 To explore the Help and Support options, follow the steps below:
 
-## 2.3.1 How It Work..........................................................................................................................
+## 2.3.1 How It Work
 
 ```
 Learn the simple steps to send money, access services, or use the platform effectively with an
@@ -159,8 +131,6 @@ Step 1 Click the How it works option.
 ```
 How it works displays.
 ```
-
-(^) **8**
 
 ## 2.3.2 Contact Us
 
@@ -178,16 +148,15 @@ Call Us :
 Available 24/7 for your assistance. Click View Contact to see the details.
 ```
 
-(^) **9
 Email** :
-Drop us an email at **nriservices@idfcfirstbank.com** for any queries. Click **Write to us to**
+Drop us an email at **services@bank.com** for any queries. Click **Write to us to**
 compose your email.
 **Request a Callback** :
 Can't reach us? Request a call, and we’ll get back to you instantly.
 **Feedback** :
 Have suggestions or feedback? Share your thoughts by clicking **Write to us**.
 
-## 2.3.3 Feedback...............................................................................................................................
+## 2.3.3 Feedback
 
 ```
 Step 1 Click the Feedback option to access.
@@ -203,14 +172,13 @@ Step 6 *Feedback Type: Select the desired feedback from the drop-down.
 Step 7 *Comment: Enter the comment in the textbox.
 Step 8 Click the Submit button to send your feedback.
 ```
-## 2.3.4 Set rate Alert.........................................................................................................................
+## 2.3.4 Set rate Alert
 
 ```
 To Set an alert follow the steps below.
 Step 1 Click on the Set rate alert button located in the top-right corner.
 ```
 
-(^) **10**
 Set rate alert screen display.
 **Step 1** * **Select country:** Select the desired country from the drop-down.
 **Step 2 *First Name:** Enter the first name in the textbox.
@@ -231,20 +199,16 @@ planning to book transaction.
 **Step 13** Click the **Confirm Details** to add in the record.
 
 
-(^) **11**
 
-## 2.4 Quick links...........................................................................................................................
-
+## 2.4 Quick links
 Access useful tools and features like offers, opening an account with IDFC Bank, sending money
 abroad, and getting advice on smart wire transfers.
 
-## 2.5 Legal....................................................................................................................................
+## 2.5 Legal
 
 Review important policies, including the cookie policy, privacy policy, terms & conditions, and
 disclaimers.
 
-
-(^) **12**
 
 ## 3. Login
 
@@ -257,7 +221,7 @@ Click on the **login** button
 The login option displays.
 
 
-(^) **13**
+
 If you already have login credentials, follow the steps below to log in.
 **Step 1** Select Your Login Option
 **Step 2 Login using your registered email ID** with us (this is selected by default). **_OR_**
@@ -269,9 +233,7 @@ want to use these credentials).
 Now you are login into IDFC RemitFirst site.
 
 
-(^) **14**
-
-## 4. Money Transfer..................................................................................................................
+## 4. Money Transfer
 
 Money Transfer refers to the process of electronically moving funds from one person or entity to
 another.
@@ -293,7 +255,7 @@ The Screen displays.
 The transaction uses RemitFirst as the remittance partner. Review the details carefully.
 ```
 
-(^) **15
+
 Step 3** Click **Continue** to agree to the terms and proceed.
 Select Account screen displays.
 **Step 4** * **Select Sending Account:** Select the desired sending account from the drop-down.
@@ -311,7 +273,7 @@ Step 9** Click on the **Transfer Now** button.
 The QR code ensures easy and accurate payment processing.
 
 
-(^) **17**
+
 
 ## 5. Add Sender
 
@@ -327,7 +289,7 @@ Step 1 Click the Add New Sending account button.
 The **Add Sender Account** screen displays.
 
 
-(^) **18
+
 Step 2** * **Account Holder Name:** Enter the account holder's name in the textbox.
 **Step 3** * **Bank Name:** Select the desired bank name from the drop-down.
 **Step 4** * **Bank Sort Code:** Enter the bank sort code in the textbox.
@@ -338,7 +300,6 @@ The **Sender added** screen displays
 Sender details added successfully.
 
 
-(^) **19**
 
 ## 6. Add Receiver
 
@@ -355,7 +316,7 @@ Step 1 Click on the Add a New button and select receiver.
 The Add Recipient screen displays.
 ```
 
-(^) **20
+
 Step 2** * **Email** : Enter the email address in the textbox.
 **Step 3** * **Purpose:** Select the desired purpose from the drop-down.
 **Step 4** * **Bank Name:** Select the desired bank name from the drop-down.
@@ -369,16 +330,14 @@ Step 2** * **Email** : Enter the email address in the textbox.
 **Step 10** * **Relationship:** Select the desired relationship from the drop-down.
 
 
-(^) **21
+
 Step 11** * **Receiver Type:** Select the desired receiver type from the drop-down.
 **Step 12** Click on the **Confirm** to continue.
 Receiver data add successfully
 
 
-(^) **22**
 
-## 7. Track My Transaction.........................................................................................................
-
+## 7. Track My Transaction
 Track My Transaction allows you to monitor the status of their money transfers in real-time. This
 feature provides transparency and helps ensure that funds reach the intended recipient securely
 and on time.
@@ -400,8 +359,6 @@ Step 7 Click on the Search button to continue.
 ```
 Transaction Screen displays.
 
-
-(^) **23**
 
 ## 8. Set Rate Alert
 
@@ -431,7 +388,6 @@ Step 21 Enter the desired rate in the text box
 Step 22 Click the Confirm Details to add in the record.
 ```
 
-(^) **24**
 
 ## 9. Refer a Friend
 
@@ -454,7 +410,6 @@ Step 6 * Friend Mobile Number: Enter the friend's mobile number in the textbox.
 Step 7 Click on Confirm to add details.
 ```
 
-(^) **25**
 
 ## 10. Help
 
@@ -490,11 +445,6 @@ Step 2 Click the Contact Us option to access.
 Contact us screen displays.
 
 
-(^) **26**
-
-
-(^) **27**
-
 ## 11. Hi User
 
 Several hi User options are available to access your profile easily, receiver details, sender details
@@ -506,7 +456,7 @@ To explore the User options, follow the steps below:
 Step 1 Click on the Hi User icon with your initials in the upper right corner.
 Step 2 Click on the profile option to access.
 ```
-## 11.1 Profile..................................................................................................................................
+## 11.1 Profile
 
 To access the Profile option, follow the steps below:
 
@@ -518,7 +468,7 @@ Step 3 Click the Profile option.
 The profile screen displays.
 
 
-(^) **28**
+
 Profile details cannot be modified as they are predefined.
 
 ## 11.2 Receiver Details
@@ -532,10 +482,10 @@ Step 2 Click the receiver Details option.
 My receiver screen displays.
 
 
-(^) **29**
+
 You can add new recipients by clicking the **Add New** button.
 
-## 11.3 Sender Details.....................................................................................................................
+## 11.3 Sender Details
 
 To access the Sender details, follow the steps below:
 
@@ -547,12 +497,11 @@ My sender screen displays.
 
 You can add new Sender by clicking the **Add New** button.
 
-## 11.4 Change Password................................................................................................................
+## 11.4 Change Password
 
 To change the password, follow the steps below:
 
 
-(^) **30
 Step 1** Click the **Profile** icon in the upper right corner.
 **Step 2** Click the **Change Password** option to access.
 The Change Password screen displays.
@@ -565,8 +514,6 @@ You receive an OTP on your email address.
 **Step 8** Click the **Change Password** button.
 The Password is now modified.
 
-
-(^) **31**
 
 ## 11.5 Notification
 
@@ -585,7 +532,6 @@ Click the desired toggle switch to turn on notifications.
 To log out, click the Logout button.
 
 
-(^) **32**
 You are now logged out of the system.
 
 
