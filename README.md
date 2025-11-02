@@ -35,7 +35,7 @@ I bridge the gap between complex engineering concepts and user understanding thr
 ## 📘 Key Projects  
 
 ### 🔹 1. **Banking API Documentation Suite**
-![API Docs Screenshot](https://github.com/niranjanpatil1007/Documentation/blob/main/Folder/Asset/Image%20Nov%201%2C%202025%2C%2001_18_03%20PM.png)
+![API Docs Screenshot](https://github.com/niranjanpatil1007/Documentation/blob/main/Folder/Asset/PaymentsAPI_50x40mm.png)
 - Created and maintained comprehensive API documentation for **Axis, ICICI, HDFC, IDFC, Kotak, IndusInd, and Yes Banks**.  
 - Ensured consistency using OpenAPI standards and Markdown templates.  
 - Collaborated with product and engineering teams to update release notes and SDK references.  
