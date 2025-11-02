@@ -55,7 +55,7 @@ I bridge the gap between complex engineering concepts and user understanding thr
 ---
 
 ### 🔹 3. **Developer Portal Revamp**
-![Developer Portal](https://i.imgur.com/YOUR_IMAGE.png)
+![Developer Portal](https://github.com/niranjanpatil1007/Documentation/blob/main/Folder/Asset/swaggerhub-swaggerui%20(1).png)
 - Re-designed legacy developer portal using **Docusaurus 2**.  
 - Added interactive “Try It” API explorer and improved navigation UX.  
 - Increased documentation engagement by **40%** (based on analytics).  
