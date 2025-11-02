@@ -1,7 +1,7 @@
 # 🧭 Software Technical Writer Portfolio  
 > *“Turning complex systems into clear, usable documentation.”*  
 
-![Banner](https://i.imgur.com/YOUR_IMAGE.png)  
+![Banner](https://github.com/niranjanpatil1007/Documentation/blob/main/Folder/Asset/Gemini_Generated_Image_dekp35dekp35dekp%20-%20Edited.png)  
 *(Example: Replace with your own header image — could include your name, title, and a clean tech theme.)*
 
 ---
