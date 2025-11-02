@@ -45,8 +45,7 @@ I bridge the gap between complex engineering concepts and user understanding thr
 ---
 
 ### 🔹 2. **Process Knowledge Base**
-![Screenshot](<img width="1536" height="1024" alt="Image Nov 1, 2025, 01_18_03 PM" src="https://github.com/user-attachments/assets/b00e97c1-908d-4139-9218-932439de003f" />
-)
+![Screenshot](https://github.com/niranjanpatil1007/Documentation/blob/main/Folder/Asset/%20Image%20Nov%202%2C%202025%2C%2011_59_25%20AM.png)
 - Developed user manuals and threat-response guides for Process flow tools.  
 - Implemented visual diagrams and JSON-based examples to simplify complex workflows.  
 - Reduced onboarding time by **35%** through structured knowledge-sharing content.  
